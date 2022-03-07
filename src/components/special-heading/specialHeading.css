@@ -1,0 +1,25 @@
+.specail-heading{
+    color: #ebeced;
+    font-size: 100px;
+    font-weight: 800;
+    text-align: center;
+    margin: 0;
+
+}
+
+.specail-heading + p{    
+    font-size: 20px;
+    text-align: center;
+    margin-top: -30px;
+    color: #777;
+}
+
+@media ( max-width:767px ){
+    .specail-heading{
+        font-size: 60px;
+    }    
+    .specail-heading + p{   
+        margin-top: -20px;
+        font-size: 15px;
+    }
+}

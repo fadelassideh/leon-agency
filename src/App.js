@@ -1,23 +1,23 @@
-import logo from './logo.svg';
 import './App.css';
+import Cover from './components/cover/Cover';
+import Features from './components/features/Features';
+import Header from './components/header/Header';
+import Portfolio from './components/portfolio/Portfolio';
+import Services from './components/services/Services';
+import About from './components/about/About';
+import ContactUs from './components/contactUs/ContactUs';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Header />
+      <Cover />
+      <Features />
+      <Services />
+      <Portfolio />
+      <About />
+      <ContactUs/>
+      <footer> &copy; 2022 <span>Leon</span> ALL Right Reserved</footer>
     </div>
   );
 }
