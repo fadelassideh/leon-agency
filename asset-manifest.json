@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.8757216f.css",
-    "main.js": "/static/js/main.fb3d1956.js",
-    "static/js/787.942f6366.chunk.js": "/static/js/787.942f6366.chunk.js",
-    "static/media/mountains.jpg": "/static/media/mountains.cf5dda95504b63a53c86.jpg",
-    "index.html": "/index.html",
-    "main.8757216f.css.map": "/static/css/main.8757216f.css.map",
-    "main.fb3d1956.js.map": "/static/js/main.fb3d1956.js.map",
-    "787.942f6366.chunk.js.map": "/static/js/787.942f6366.chunk.js.map"
+    "main.css": "/leon-agency/static/css/main.bfd03ea4.css",
+    "main.js": "/leon-agency/static/js/main.0d796199.js",
+    "static/js/787.942f6366.chunk.js": "/leon-agency/static/js/787.942f6366.chunk.js",
+    "static/media/mountains.jpg": "/leon-agency/static/media/mountains.cf5dda95504b63a53c86.jpg",
+    "index.html": "/leon-agency/index.html",
+    "main.bfd03ea4.css.map": "/leon-agency/static/css/main.bfd03ea4.css.map",
+    "main.0d796199.js.map": "/leon-agency/static/js/main.0d796199.js.map",
+    "787.942f6366.chunk.js.map": "/leon-agency/static/js/787.942f6366.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8757216f.css",
-    "static/js/main.fb3d1956.js"
+    "static/css/main.bfd03ea4.css",
+    "static/js/main.0d796199.js"
   ]
 }
