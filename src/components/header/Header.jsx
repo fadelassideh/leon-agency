@@ -59,8 +59,8 @@ export default function Header() {
     return (
       <div className='header'>
         <Container>
-            <img className={`logo${mode === "dark" || null?" hide":""}`} src='./images/logo.png' alt='LOGO'/>
-            <img className={`logo${mode === "light"?" hide":""}`} src='./images/logo-dark.png' alt='LOGO'/>
+            <img className={`logo${mode === "dark" ?" hide":""}`} src='./leon-agency/images/logo.png' alt='LOGO'/>
+            <img className={`logo${mode === "light" || mode === null?" hide":""}`} src='./leon-agency/images/logo-dark.png' alt='LOGO'/>
             <button onClick={()=> toggleMode()}> <FontAwesomeIcon icon= { mode === "dark" ? faSun: faMoon} /></button>
             <div className='links'>
                 <span ref={navRef} className='nav-icon' onClick={toggleNavMenu}>

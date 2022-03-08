@@ -8,7 +8,7 @@ const About = () =>(
         <SpecialHeading title="ABOUT" body="Less Is More Work"/>
         <Container>
             <div className="about-img">
-                <img src="./images/black-mountain.jpg"/>
+                <img src="./leon-agency/images/black-mountain.jpg"/>
             </div>
             <div className="about-info">
                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veritatis voluptatibus dolorem aperiam alias, rerum quam, tempora eligendi unde vero architecto doloremque! Qui nam amet quod consectetur sint ut necessitatibus laboriosam?</p>

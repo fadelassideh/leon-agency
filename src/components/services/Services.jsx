@@ -33,7 +33,7 @@ const Services = ()=>(
             </div>
             
             <div className="col img">
-               <img src="./images/mountain2.jpg"/>
+               <img src="./leon-agency/images/mountain2.jpg"/>
             </div>
         </Container>
         
