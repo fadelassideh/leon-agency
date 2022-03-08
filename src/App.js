@@ -10,7 +10,7 @@ import ContactUs from './components/contactUs/ContactUs';
 import { DarkModeContext } from './helper/DarkModeContext';
 
 function App() {
-  const [mode, setMode] = useState(null)
+  const [mode, setMode] = useState("light")
   return (
     <div className="App">
       <DarkModeContext.Provider value={{mode, setMode}}>
