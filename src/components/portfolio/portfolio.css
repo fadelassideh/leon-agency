@@ -28,7 +28,7 @@
 }
 
 .card .card-info p{
-    color: #777;
+    color: var(--paragraph-color);
     line-height: 1.6;
     margin-bottom: 0;
 }

@@ -62,7 +62,7 @@
 
 .about-info p:last-of-type{
     line-height: 2;
-    color: #777;
+    color: var(--paragraph-color);
 
 }
 

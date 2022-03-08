@@ -20,7 +20,7 @@ const Service = ({icon, title, body})=>(
 
 const Services = ()=>(
     <div className="services" id="services">
-        <SpecialHeading title="Services" body= "Don't Be Busy, Be Productive"/>
+        <SpecialHeading title="SERVICES" body= "Don't Be Busy, Be Productive"/>
         <Container>
             <div className="col">
                 <Service icon={faEye} title="Graphic Design" body="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Expedita tenetur laudantium."/>

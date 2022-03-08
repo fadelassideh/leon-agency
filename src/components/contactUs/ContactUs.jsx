@@ -6,7 +6,7 @@ import './contactUs.css'
 
 const ContactUs = () => (
     <div className="contact" id="contact">
-        <SpecialHeading title="Contact" body="We Born To Create" />
+        <SpecialHeading title="CONTACT" body="We Born To Create" />
         <Container>
             <div className="contact-content">
                 <p className="label">Feel Free To Drop Us A Line At:</p>

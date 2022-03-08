@@ -4,6 +4,8 @@
   --main-color: #10cab7;
   --secondary-color: #2c4755;
   --section-bg-color: #f6f6f6;
+  --paragraph-color: var(--paragraph-color);
+  --special-heading-color: #ebeced;
   --section-padding: 60px;
 }
 
@@ -20,7 +22,9 @@ html{
 body {
   font-family: "Work Sans", sans-serif;
 }
-
+.hide{
+  display: none;
+}
 footer{
   padding: 30px 10px ;
   color: white;

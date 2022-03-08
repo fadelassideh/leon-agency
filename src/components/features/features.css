@@ -29,7 +29,7 @@
 .features .feature p{
     font-size: 17px;
     line-height: 1.8;
-    color: #777;
+    color: var(--paragraph-color);
     max-width: 300px;
     margin: auto;
 }

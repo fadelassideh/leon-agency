@@ -5,7 +5,7 @@ import './about.css'
 
 const About = () =>(
     <div className="about" id="about">
-        <SpecialHeading title="About" body="Less Is More Work"/>
+        <SpecialHeading title="ABOUT" body="Less Is More Work"/>
         <Container>
             <div className="about-img">
                 <img src="./images/black-mountain.jpg"/>

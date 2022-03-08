@@ -15,6 +15,7 @@
   
   .header{
       padding: 20px;
+      position: relative;
   }
   .header .container{
       display: flex;
@@ -25,6 +26,22 @@
   .header .logo{
       width: 65px;
   }
+  .header button{
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    color: #2c4755;
+    position: absolute;
+    top: 44%;
+    right: 28px;
+    transform: translateY(-50%);
+    font-size: 35px;
+    
+  }
+  .header button:hover{
+    color: var(--main-color);
+  }
+
   .header .links{
       position: relative;
   }
